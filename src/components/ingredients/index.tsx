@@ -7,7 +7,7 @@ export default function Ingredients(){
     <ScrollView horizontal style={styles.container}>
       <Ingredient />
       <Ingredient />
-      <Ingredient />
+
     </ScrollView>
   )
 }
