@@ -1,18 +1,3 @@
-<h1 align="center">
-  <img width="100%" alt="Banner" title="Banner" src=".github/banner.png" />
-</h1>
-
-### Links
-
-🔴 **Assista meus vídeos no YouTube:** [@orodrigogo](https://www.youtube.com/@orodrigogo)
-
-🔴 **Figma do projeto:** [Cook App](https://www.figma.com/community/file/1346604268107725445/cook-app)
-
----
-
-<h1 align="center">
-  <img width="100%" alt="Banner" title="App" src=".github/app.png" />
-</h1>
 
 ### Sobre o projeto
 
